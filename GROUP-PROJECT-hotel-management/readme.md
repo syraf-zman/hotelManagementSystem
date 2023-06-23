@@ -1,7 +1,7 @@
 # Hotel Management System (2022)
 **Model-View-Controller (MVC) application**
 
-This project is to apply the knowledge on MVC, which is how the data is tored, presentation of information and control information.
+This project is to apply the knowledge on MVC, which is how the data is stored, how it presented and how it is being controlled.
 
 
 
