@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/GitHub/GROUP-PROJECT-hotel-management/web/index.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/GitHub/GROUP-PROJECT-hotel-management/src/java/com/hotel/dao/LoginDao.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/GitHub/GROUP-PROJECT-hotel-management/web/RoomList.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/GitHub/GROUP-PROJECT-hotel-management/web/booking.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/GitHub/GROUP-PROJECT-hotel-management/web/successBooking.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/GitHub/GROUP-PROJECT-hotel-management/src/java/com/hotel/util/HoteldbConn.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/GitHub/GROUP-PROJECT-hotel-management/web/deletebooking.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/GitHub/GROUP-PROJECT-hotel-management/web/checkBooking.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/GitHub/GROUP-PROJECT-hotel-management/src/java/com/hotel/controller/loginServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/GitHub/GROUP-PROJECT-hotel-management/web/JSPmenu.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/GitHub/GROUP-PROJECT-hotel-management/web/editbooking.jsp</file>
+        </group>
+    </open-files>
+</project-private>

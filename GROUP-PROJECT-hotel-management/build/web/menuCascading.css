@@ -1,0 +1,75 @@
+body
+    {
+	background-image: url('bgimage.jpg');
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+        font-family: verdana;
+    }
+
+.topnav
+    {
+        background-color: dimgrey;
+        overflow: hidden;
+    }
+            
+.topnav a 
+    {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+            
+.topnav a.active 
+    {
+        background-color: #04AA6D;
+        color: white;
+    }
+    
+.divBooking
+    {
+        color: white;
+        background-image: url('darker.png');
+        overflow : hidden;
+        text-align:center;
+        border: 0px;
+        width: 1000px;
+        margin: auto;
+    }
+    
+input[type=text]
+    {
+        width:auto;
+        padding: 10px;
+        box-sizing: border-box;
+        border: 1px;
+        border-radius: 10px;
+    }
+    
+input[type=date]
+    {
+        width:auto;
+        padding: 10px;
+        box-sizing: border-box;
+        border: 1px;
+        border-radius: 10px;
+    }
+
+table
+    {
+        border: 0px solid;
+        background-color: white;
+    }
+    
+td
+    {
+        text-align: left;
+    }
+
+th
+    {
+        text-align: center;
+    }
